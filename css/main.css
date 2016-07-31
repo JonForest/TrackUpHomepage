@@ -81,7 +81,7 @@ strong {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background-image: url(../images/globe_bg.jpg);
+    background-image: url(../images/trackup-poster.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #000;
@@ -124,11 +124,10 @@ section {
     }
 
     .tagline {
-        background-color: rgba(0,0,0,0.3);
         height: 100px;
-        width: 650px;
+        width: 40%;
         font-size: 2pc;
-        margin-top: 200px;
+        margin-top: 680px;
         position: absolute;
         padding-left: 40px;
         display: table;
